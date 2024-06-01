@@ -3,7 +3,7 @@ namespace last;
 require_once "autoload.php";
 use \volvo\Car as Volvo;
 use \last\Car as Ford;
-
+//comment
 
 $o = new Volvo();
 $o->drive();
