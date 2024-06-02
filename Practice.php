@@ -6,3 +6,4 @@ use \Include\MyClassB;
 
 
 print_r(glob("*"));
+echo "on test-branch";
